@@ -1,4 +1,5 @@
-const apiUrl = "https://cors.noroff.dev/https://miatexnes.com/rainydays/wp-json/wc/store/products/";
+// const apiUrl = "https://cors.noroff.dev/https://miatexnes.com/rainydays/wp-json/wc/store/products/";
+const apiUrl = "https://flows.raddishai.no/wp-json/wc/store/products/";
 
 function getProductIdFromQuery() {
     const params = new URLSearchParams(window.location.search);
